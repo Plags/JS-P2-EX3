@@ -1,0 +1,2 @@
+function cleRelachee(){
+  alert(`${lastname}`) }
